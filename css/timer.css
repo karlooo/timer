@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.abc {
+    background: #222;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 1;
+    padding: 70px 0;
+}
+#timer {
+    
+    color: #D3D3D3;
+    font-size: 4rem;
+}
+#statictext {
+    color: #D3D3D3;
+    font-size: 4rem;
+}
